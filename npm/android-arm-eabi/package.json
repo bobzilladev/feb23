@@ -1,0 +1,18 @@
+{
+  "name": "@bobzilla/feb23-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "feb23.android-arm-eabi.node",
+  "files": [
+    "feb23.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

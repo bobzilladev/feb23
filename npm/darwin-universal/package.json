@@ -1,0 +1,15 @@
+{
+  "name": "@bobzilla/feb23-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "feb23.darwin-universal.node",
+  "files": [
+    "feb23.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
